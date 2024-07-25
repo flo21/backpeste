@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Lapidation",
+        "description": "Peine capitale où la personne est jetée par des pierres jusqu'à la mort.",
+        "healer_type": "Moine priant",
+        "price": "15 florins",
+        "survival_chance": "5%"
+    },
+    {
+        "name": "Guillotine",
+        "description": "Méthode d'exécution rapide en utilisant une lame tranchante pour décapiter la victime.",
+        "healer_type": "Moine priant",
+        "price": "10 florins",
+        "survival_chance": "0%"
+    },
+    {
+        "name": "Écartèlement",
+        "description": "Supplice consistant à démembrer une personne vivante.",
+        "healer_type": "Moine priant",
+        "price": "20 florins",
+        "survival_chance": "1%"
+    },
+    {
+        "name": "Bûcher",
+        "description": "Exécution par le feu en brûlant la personne vivante.",
+        "healer_type": "Moine priant",
+        "price": "25 florins",
+        "survival_chance": "0%"
+    },
+    {
+        "name": "Pendaison",
+        "description": "Exécution par suspension du cou jusqu'à la mort.",
+        "healer_type": "Moine priant",
+        "price": "12 florins",
+        "survival_chance": "0%"
+    }
+
+]
+    

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Chute de cheval",
+        "description": "Accident fréquent causé par une chute d'un cheval en pleine course ou en combat.",
+        "healer_type": "Barbier-chirurgien",
+        "price": "20 florins",
+        "survival_chance": "60%"
+    },
+    {
+        "name": "Blessure par arme blanche",
+        "description": "Blessure causée par une épée ou un poignard pendant un duel ou une bataille.",
+        "healer_type": "Barbier-chirurgien",
+        "price": "30 florins",
+        "survival_chance": "50%"
+    },
+    {
+        "name": "Brûlure",
+        "description": "Dommages causés par le feu ou des substances chaudes.",
+        "healer_type": "Apothicaire",
+        "price": "25 florins",
+        "survival_chance": "40%"
+    },
+    {
+        "name": "Fracture osseuse",
+        "description": "Os cassé dû à une chute ou un impact violent.",
+        "healer_type": "Barbier-chirurgien",
+        "price": "35 florins",
+        "survival_chance": "70%"
+    },
+    {
+        "name": "Empoisonnement",
+        "description": "Ingestion de substances toxiques provoquant douleurs et vomissements.",
+        "healer_type": "Herboriste",
+        "price": "45 florins",
+        "survival_chance": "30%"
+    }
+]

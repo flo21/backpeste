@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Peste",
+        "description": "Une maladie extrêmement contagieuse causée par la bactérie Yersinia pestis. Symptômes: fièvre, ganglions enflés, et la mort.",
+        "healer_type": "Médecin de la peste",
+        "price": "100 florins",
+        "survival_chance": "10%"
+    },
+    {
+        "name": "Lèpre",
+        "description": "Une maladie chronique causée par Mycobacterium leprae, qui provoque des lésions cutanées et nerveuses.",
+        "healer_type": "Moine guérisseur",
+        "price": "50 florins",
+        "survival_chance": "30%"
+    },
+    {
+        "name": "Tuberculose",
+        "description": "Infection bactérienne qui attaque les poumons, provoquant toux et perte de poids.",
+        "healer_type": "Herboriste",
+        "price": "75 florins",
+        "survival_chance": "20%"
+    },
+    {
+        "name": "Choléra",
+        "description": "Infection intestinale causant diarrhée sévère et déshydratation.",
+        "healer_type": "Apothicaire",
+        "price": "40 florins",
+        "survival_chance": "15%"
+    },
+    {
+        "name": "Variole",
+        "description": "Maladie virale provoquant éruptions cutanées et fièvre élevée.",
+        "healer_type": "Médecin",
+        "price": "60 florins",
+        "survival_chance": "25%"
+    }
+]
